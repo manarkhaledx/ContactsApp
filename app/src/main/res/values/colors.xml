@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="addContactColor">#B5CD9D</color>
+    <color name="addButtonTextColor">#131f0d</color>
+    <color name="background">#fdfdf6</color>
+    <color name="itemColor">#f0f3e8</color>
+    <color name="red">#FF0000</color>
+</resources>

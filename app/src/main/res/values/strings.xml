@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ContactsApp</string>
+    <string name="add_new_contact">Add New Contact</string>
+    <string name="save">Save</string>
+    <string name="contact_details">Contact Details</string>
+    <string name="phone">Phone:</string>
+    <string name="name">Name:</string>
+    <string name="description">Description:</string>
+    <string name="namedetail">NameDetail</string>
+    <string name="phonedetail">phoneDetail</string>
+    <string name="test">ewjiorjewiojroiewjriowejrioejriwojeriojweiorjewiojriojrioewjriowejroiwejoriewiorjweiorjweiojreowijroiwjeriojweiorjweorjiweorjwioejrioweeeeeeeee ewrwerwer rewrwerwerweriwuehuirhweiurhwuirhweuihrwuiehruiwehriuwehruiwehruewhruhweurhuweirhuiwehruiwehruiwehriw rwebrweryuwegryuwegregwyrugweyugruywegryuwegrygew rewigruiwegriuwgeriuwgeurie</string>
+    <string name="dots">...</string>
+    <string name="back">back</string>
+</resources>
